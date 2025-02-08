@@ -2,7 +2,7 @@
 A 3D flip card inspired by Squid Game, built using HTML, CSS, and JavaScript. Click the card to flip and reveal the hidden side!
 
 Page View🙈
-![image alt(https://github.com/bdnath702/Squid-Game-Flip-Card/blob/main/page%20screenshot.png?raw=true)
+![image alt](https://github.com/bdnath702/Squid-Game-Flip-Card/blob/main/page%20screenshot.png?raw=true)
 🚀 Features
 ✅ 3D Flip Effect – Click to flip the card
 ✅ Squid Game-Inspired Design – Triangle, Circle, and Square elements
