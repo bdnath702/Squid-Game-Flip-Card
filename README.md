@@ -6,7 +6,7 @@ Page View🙈
 🚀 Features
 ✅ 3D Flip Effect – Click to flip the card
 ✅ Squid Game-Inspired Design – Triangle, Circle, and Square elements
-✅ Smooth Animations – CSS-powered transitions
+✅ Smooth Animations – CSS-powered transitions.
 ✅ Fully Responsive – Works on all screen sizes
 
 📂 File Structure
